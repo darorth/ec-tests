@@ -1,0 +1,6 @@
+@ECWebAPITest_HostAddress = http://localhost:5126
+
+GET {{ECWebAPITest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
